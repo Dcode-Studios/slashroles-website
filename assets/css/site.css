@@ -47,6 +47,7 @@ button :link {
     height: 5%;
     width: 5%;
     box-shadow: 0 0 10px white;
+    min-width: 27px;
 }
 
 .demoImage {
